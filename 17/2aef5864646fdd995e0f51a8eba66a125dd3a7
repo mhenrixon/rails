@@ -1,0 +1,21 @@
+actionview/test/template/render_test.rb
+  s_4786a62cd35147::t_a44937fb5b1a82 1179-1183,1197-1208
+  s_4786a62cd35147::t_695db73d507ef6 1196
+  s_4786a62cd35147::t_ce1d772ea90b00 1211-1212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "172aef5864646fdd995e0f51a8eba66a125dd3a7",
+  "prompts": {},
+  "sessions": {
+    "s_4786a62cd35147": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d1e58604-bb1b-456c-ace0-8fe7f151dae8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
