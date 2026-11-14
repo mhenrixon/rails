@@ -1,0 +1,12 @@
+actionpack/lib/action_controller/metal.rb
+  s_4786a62cd35147::t_f4ef9332ef992c 164-169
+actionpack/test/controller/base_test.rb
+  s_4786a62cd35147::t_f3cb1eba12250a 137-147
+  s_4786a62cd35147::t_08e7e9ab03b4a2 20-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "984e70ef78171eb1bbbde9e6fba5204276d2aaa9",
+  "prompts": {}
+}
